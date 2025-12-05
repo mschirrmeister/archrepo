@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rm msc*
+rm msc.*
 
 echo "repo-add"
 repo-add -s -n -R msc.db.tar.zst *.pkg.tar.zst
