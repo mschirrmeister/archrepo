@@ -19,6 +19,8 @@ cp -p msc.db.tar.zst.sig msc.db.sig
 cp -p msc.files.tar.zst msc.files
 cp -p msc.files.tar.zst.sig msc.files.sig
 
+apindex .
+
 echo "####################################"
 echo "Repo Updated!!"
 echo "####################################"
