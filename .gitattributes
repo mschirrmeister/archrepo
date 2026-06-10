@@ -1,0 +1,4 @@
+*.pkg.tar.zst binary -delta
+*.pkg.tar.xz  binary -delta
+*.db.tar.zst  binary
+*.files.tar.zst binary
